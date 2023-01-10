@@ -1,1 +1,1 @@
-# CS50-s-Introduction-to-Artificial-Intelligence-with-Python
+# Answers to ai50/projects/2020/x/knights
